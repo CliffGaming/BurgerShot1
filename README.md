@@ -372,12 +372,7 @@ function resetCalculator() {
   
 
    
-  <h3>Specials</h3>
-   <div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">5k Special - $</label>5000
-    <input type="number" value="1" min="1">
-  </div>
+  <h3>Shake Specials</h3>
 
    <div>
     <input type="checkbox" id="Davechoice" value="1600$">
@@ -409,24 +404,13 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
 
-   <div>
-    <input type="checkbox" id="Davechoice" value="1500$">
-    <label for="Davechoice">10- Ice Cream - $</label>1500
-    <input type="number" value="1" min="1">
-  </div>
+<h3>Ice Cream Special</h3>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="2500$">
-    <label for="Davechoice">20- Ice Cream - $</label>2500
+    <input type="checkbox" id="Davechoice" value="4500$">
+    <label for="Davechoice">32- Ice Cream - $</label>4500
     <input type="number" value="1" min="1">
   </div>
-
-<div>
-    <input type="checkbox" id="Davechoice" value="5000$">
-    <label for="Davechoice">50- Ice Cream - $</label>5000
-    <input type="number" value="1" min="1">
-  </div>
-
 
 
    <h3>Special Events</h3>
