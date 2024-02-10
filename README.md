@@ -410,20 +410,20 @@ function resetCalculator() {
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="6000$">
-    <label for="Davechoice">40- Goat Wrap - $</label>6000
+    <input type="checkbox" id="Davechoice" value="1500$">
+    <label for="Davechoice">10- Ice Cream - $</label>1500
     <input type="number" value="1" min="1">
   </div>
 
    <div>
-    <input type="checkbox" id="Davechoice" value="9000$">
-    <label for="Davechoice">60- Goat Wrap - $</label>9000
+    <input type="checkbox" id="Davechoice" value="2500$">
+    <label for="Davechoice">20- Ice Cream - $</label>2500
     <input type="number" value="1" min="1">
   </div>
 
 <div>
-    <input type="checkbox" id="Davechoice" value="12000$">
-    <label for="Davechoice">80- Goat Wrap - $</label>12000
+    <input type="checkbox" id="Davechoice" value="5000$">
+    <label for="Davechoice">50- Ice Cream - $</label>5000
     <input type="number" value="1" min="1">
   </div>
 
@@ -455,20 +455,20 @@ function resetCalculator() {
   <h3> Discount Items</h3> 
 
 <div>
-  <input type="checkbox" id="50off" value="-50%">
-  <label for="50off">Employee Discount - 50% off</label>
+  <input type="checkbox" id="50off" value="-40%">
+  <label for="50off">Employee Discount - 40% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
 <div>
-  <input type="checkbox" id="30off" value="-15%">
-  <label for="30off">Blackout Sale - 15% off</label>
+  <input type="checkbox" id="30off" value="-30%">
+  <label for="30off">PD & EMS - 30% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
 <div>
-  <input type="checkbox" id="25off" value="-30%">
-  <label for="25off">Mechs/PD & EMS - 30% off</label>
+  <input type="checkbox" id="25off" value="-15%">
+  <label for="25off">Mechs - 15% off</label>
   <input type="number" value="1" min="1" max="1">
 </div>
 
